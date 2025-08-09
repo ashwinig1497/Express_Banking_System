@@ -1,0 +1,15 @@
+{
+  "name": "express-banking-system",
+  "version": "1.0.0",
+  "description": "A simple Express Banking System using JavaScript, Linked List, and Binary Search Tree.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create": "^0.5.5",
+    "npm": "^11.5.1"
+  }
+}
